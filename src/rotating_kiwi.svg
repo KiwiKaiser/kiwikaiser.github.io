@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512">
+  <g transform="translate(256 256)">
+    <g>
+      <text
+        x="0"
+        y="0.35em"
+        text-anchor="middle"
+        font-size="256">
+          🥝
+      </text>
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0"
+        to="360"
+        dur="8s"
+        repeatCount="indefinite">
+      </animateTransform>
+    </g>
+  </g>
+</svg>
